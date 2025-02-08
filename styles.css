@@ -46,3 +46,9 @@ h2{
 ul{
     padding-left: 24px;
 }
+
+footer{
+    color: white;
+    text-align: center;
+    padding-bottom: 48px;
+}
